@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # 헤더
-st.title("무슨 주식을 사야 부자가 되려나...")
+st.title("무슨 주식을 사야 부자가 되려나...?")
 
 # 사이드바
 with st.sidebar:
